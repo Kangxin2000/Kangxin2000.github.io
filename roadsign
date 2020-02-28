@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:#AED6F1 ;">
+
+<h1>Direction</h1>
+<a href="https://kangxin2000.github.io/C/" title="Go to learn C!" style="font-size:200%;" style="font-family:verdana;">Want to learn some C?</a>
+<br>
+<br>
+<a href="https://kangxin2000.github.io/R/" title="Go to learn R!" style="font-size:200%;" style="font-family:verdana;">Interested in statistics and R?</a>
+<br>
+<br>
+<a href="https://kangxin2000.github.io/MatLab/" title="Go to learn MatLab!" style="font-size:200%;" style="font-family:verdana;">Smart people should learn Matlab!</a>
+<br>
+<br>
+<a href="https://kangxin2000.github.io/EE/" title="Go to learn electronics!" style="font-size:200%;" style="font-family:verdana;">Everything about Arduino and hardware</a>
+
+</html>
